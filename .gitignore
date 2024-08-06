@@ -1,0 +1,12 @@
+CLIC_grayscale/
+MNIST/
+MNIST1/
+MNIST_FASHION/
+cifar-10-batches-py/
+results/
+mnist_png/
+dataset/
+*.gz
+*.pt
+*.ipynb
+!neuralCompressor2.ipynb
